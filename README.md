@@ -5,7 +5,7 @@
 
 ---------
 #### **OBJECTIVE:**
-Highly self-motivated candidate looking for a career change into position where I can further develop my career within a progressive organization.
+->Highly self-motivated candidate looking for a career change into position where I can further develop my career within a progressive organization.<-
 
 ---------
 
