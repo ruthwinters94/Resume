@@ -1,6 +1,6 @@
 # Ruth Winters
 
- |Address?, Seattle, WA 98105    |   Mobile: 360-461-4376 |    Email: <ruthwinters0@gmail.com>|
+              |Address?, Seattle, WA 98105    |   Mobile: 360-461-4376 |    Email: <ruthwinters0@gmail.com>|
  | ------------- |:-------------:| -----:|
 
 ---------
