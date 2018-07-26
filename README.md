@@ -5,16 +5,17 @@
 
 ---------
 #### **OBJECTIVE:**
-Highly self-motivated candidate looking for a career change into position where I can further develop my career within a progressive organization.
+Highly self-motivated candidate looking to learn the tools and skills neccessary to sucessfully transition to a career in the tech industry.
 
 ---------
 
 #### **QUALIFICATIONS:**
+* Codecadamy - Intro to HTML, CSS, and Javascript
 * Problem solving and conflict resolution skills
 * Excel, PowerPoint, Access and Outlook			
 * Scheduling and time management
 * Event coordinating and Project Management			
-* Exceptional customer service 				
+* Exceptional customer service				
 
 ---------
 
