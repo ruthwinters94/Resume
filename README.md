@@ -1,8 +1,8 @@
 # Ruth Winters
-Address?, Seattle, WA 98105 - Mobile: 360-461-4376 - Email: <ruthwinters0@gmail.com>
+
+ |Address?, Seattle, WA 98105 | Mobile: 360-461-4376 | Email: <ruthwinters0@gmail.com>|
 
 ---------
-
 #### **OBJECTIVE:**
 Highly self-motivated candidate looking for a career change into position where I can further develop my career within a progressive organization.
 
