@@ -1,11 +1,13 @@
-# Resume
-My ADA Resume
-
+# Ruth Winters
 **Ruth Winters**  
-Address?, Seattle, WA 98105 - Mobile: 360-461-4376 - Email: ruthwinters0@gmail.com
+Address?, Seattle, WA 98105 - Mobile: 360-461-4376 - Email: <ruthwinters0@gmail.com>
+
+---------
 
 #### **OBJECTIVE:**
 Highly self-motivated candidate looking for a career change into position where I can further develop my career within a progressive organization.
+
+---------
 
 #### **QUALIFICATIONS:**
 * Exceptional customer service 				
@@ -15,9 +17,13 @@ Highly self-motivated candidate looking for a career change into position where 
 * Event coordinating and Project Management					
 * Project management
 
+---------
+
 #### **EDUCATION**  
 Bachelor of Arts, _Business Administration – Management_              Western Washington University, **June 2015**
 Associates of Arts, _General Studies_			         	  	          Peninsula College, **Spring 2012**
+
+---------
 
 #### **EXPERIENCE**  
 
@@ -47,6 +53,8 @@ Associates of Arts, _General Studies_			         	  	          Peninsula College
 **Office Assistant**, _Chestnut Cottage Restaurant, Port Angeles, WA,_ April 2010- January 2012
 * Managed cash flow at main register ($2000/daily), issued gift certificates, and handled multi-line phone line taking reservations and handling all inquiries.
 * Supervised 3-5 staff members overseeing closing operation, totaled daily sales and prepared bank deposits.
+
+---------
 
 **ACTIVITIES**: VITA- IRA certified tax preparer      		  Volunteer January 2015- April 2015  
 [Internship Reflections](https://ruthwinters.weebly.com/appendix1.html)
