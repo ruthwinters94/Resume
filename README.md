@@ -1,5 +1,4 @@
 # Ruth Winters
-============
 
  |Address?, Seattle, WA 98105    |   Mobile: 360-461-4376 |    Email: <ruthwinters0@gmail.com>|
  | ------------- |:-------------:| -----:|
@@ -21,7 +20,7 @@ Highly self-motivated candidate looking for a career change into position where 
 ---------
 
 #### **EDUCATION**  
-Bachelor of Arts, _Business Administration – Management_              Western Washington University, **June 2015**
+Bachelor of Arts, _Business Administration – Management_              Western Washington University, **June 2015**  
 Associates of Arts, _General Studies_			         	  	          Peninsula College, **Spring 2012**
 
 ---------
