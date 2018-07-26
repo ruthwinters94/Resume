@@ -12,7 +12,7 @@ Highly self-motivated candidate looking to learn the tools and skills neccessary
 #### **QUALIFICATIONS:**
 * Codecadamy - Intro to HTML, CSS, and Javascript
 * Problem solving and conflict resolution skills
-* Excel, PowerPoint, Access and Outlook			
+* Excel, PowerPoint, Access, and Outlook			
 * Scheduling and time management
 * Event coordinating and Project Management			
 * Exceptional customer service				
