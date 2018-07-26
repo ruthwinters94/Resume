@@ -10,12 +10,11 @@ Highly self-motivated candidate looking for a career change into position where 
 ---------
 
 #### **QUALIFICATIONS:**
-* Exceptional customer service 				
 * Problem solving and conflict resolution skills
 * Excel, PowerPoint, Access and Outlook			
 * Scheduling and time management
-* Event coordinating and Project Management					
-* Project management
+* Event coordinating and Project Management			
+* Exceptional customer service 				
 
 ---------
 
